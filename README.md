@@ -1,7 +1,17 @@
-# Laboratorio 2 — Especificaciones de la App (StoryDraw)
+# Laboratorios — Desarrollo asistido por IA (StoryDraw)
 
 > **Materia:** Desarrollo asistido por IA (vibe coding)
 > **Aplicación:** StoryDraw — convierte el dibujo de un niño en un cuento ilustrado y narrado.
+
+Este repositorio agrupa los entregables de los laboratorios de la materia:
+
+- **Lab 2 — Especificaciones de la App:** Mapa de Componentes v1 + especificaciones (raíz de este repo, abajo).
+- **Lab 3 — Implementación con Vibe Coding:** ciclo prompt→código→refinamiento→reflexión sobre el componente C11, en [`lab03/`](lab03/).
+
+---
+
+## Lab 2 — Especificaciones de la App
+
 > **Entregable:** Mapa de Componentes v1 + Especificaciones de componentes críticos.
 
 Este repositorio contiene **únicamente** el entregable del Laboratorio 2. Está escrito en
